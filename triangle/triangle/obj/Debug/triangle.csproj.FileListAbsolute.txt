@@ -1,0 +1,11 @@
+C:\Users\sheremet\Desktop\Новая папка\OOP\rgr brailko\triangle\triangle\obj\Debug\triangle.csproj.AssemblyReference.cache
+C:\Users\sheremet\Desktop\Новая папка\OOP\rgr brailko\triangle\triangle\obj\Debug\triangle.Form1.resources
+C:\Users\sheremet\Desktop\Новая папка\OOP\rgr brailko\triangle\triangle\obj\Debug\triangle.Properties.Resources.resources
+C:\Users\sheremet\Desktop\Новая папка\OOP\rgr brailko\triangle\triangle\obj\Debug\triangle.csproj.GenerateResource.cache
+C:\Users\sheremet\Desktop\Новая папка\OOP\rgr brailko\triangle\triangle\obj\Debug\triangle.csproj.CoreCompileInputs.cache
+C:\Users\sheremet\Desktop\Новая папка\OOP\rgr brailko\triangle\triangle\bin\Debug\triangle.exe.config
+C:\Users\sheremet\Desktop\Новая папка\OOP\rgr brailko\triangle\triangle\bin\Debug\triangle.exe
+C:\Users\sheremet\Desktop\Новая папка\OOP\rgr brailko\triangle\triangle\bin\Debug\triangle.pdb
+C:\Users\sheremet\Desktop\Новая папка\OOP\rgr brailko\triangle\triangle\obj\Debug\triangle.exe
+C:\Users\sheremet\Desktop\Новая папка\OOP\rgr brailko\triangle\triangle\obj\Debug\triangle.pdb
+C:\Users\sheremet\Desktop\Новая папка\OOP\rgr brailko\triangle\triangle\obj\Debug\triangle.exe.config
